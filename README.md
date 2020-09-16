@@ -39,15 +39,15 @@ and easily accessible through a modern RESTful API. Site: https://www.dnd5eapi.c
   
   ## <a id='Credits' style='color:white;'>Credits</a>
   Co-creators:
-  <hr>
+
   GitHub Username: ezekieleverest <br>Github Profile: <a href='https://github.com/ezekieleverest'>https://github.com/ezekieleverest</a>
-  <hr>
+
   GitHub Username: Techno-mage <br>Github Profile: <a href='https://github.com/Techno-mage'>https://github.com/Techno-mage</a>
-  <hr>
+
   GitHub Username: AndrewCodesDontYaKnow <br>Github Profile: <a href='https://github.com/AndrewCodesDontYaKnow'>https://github.com/AndrewCodesDontYaKnow</a>
-  <hr>
+
   GitHub Username: NathanSzu <br>Github Profile: <a href='https://github.com/NathanSzu'>https://github.com/NathanSzu</a>
-  <hr>
+
   
   ## <a id='Questions' style='color:white;'>Questions</a>
   Contact Andrew Smith with questions at andrewsmith593@gmail.com.
