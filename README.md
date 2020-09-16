@@ -22,6 +22,7 @@
   
   <a href='#License'>License</a>
   
+  ![HeroCraft screenshot](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 
   ## <a id='Installation' style='color:white;'>Installation</a>
