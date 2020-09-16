@@ -1,4 +1,4 @@
-# Character Creator
+# HeroCraft
   ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
   ## Description
   Table-top game character creator that allows users to define character stats and details, save them to a roster, and view them in a dynamic character sheet.
