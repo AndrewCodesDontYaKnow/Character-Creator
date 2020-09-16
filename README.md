@@ -22,7 +22,7 @@
   
   <a href='#License'>License</a>
   
-  Screenshot
+  Screenshot of Dynamic Character Sheet
   ![HeroCraft screenshot](./img/characterpage2.png?)
 
 
