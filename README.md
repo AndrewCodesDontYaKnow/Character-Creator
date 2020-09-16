@@ -22,7 +22,7 @@
   
   <a href='#License'>License</a>
   
-  ![HeroCraft screenshot](./img/characterpage2.png?)
+  ![HeroCraft screenshot](./img/characterpage2.png?  =250x)
 
 
   ## <a id='Installation' style='color:white;'>Installation</a>
