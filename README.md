@@ -33,7 +33,7 @@
   Log in or create a user account. Click the Create Character button to start creation wizard. Use DnD5e API supplied details, and go through the selection and creation process. Click save when finished, your new character is now in your Hero Roster. You can select and view any one of these heros in a dynamic character sheet to view and edit during gameplay.
   
   ## <a id='API Reference' style='color:white;'>API Reference</a>
-DnD53 API. A simple api for things within the Official 5th Edition SRD
+DnD5e API. A simple api for things within the Official 5th Edition SRD
 and easily accessible through a modern RESTful API. Site: https://www.dnd5eapi.co/ 
 
   ## <a id='Contribution' style='color:white;'>Contribution</a>
