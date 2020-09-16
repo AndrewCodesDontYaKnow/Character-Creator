@@ -1,11 +1,36 @@
 # Character Creator
   ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
   ## Description
-  An application that allows users to easily create and store characters for roleplaying games that can be referenced later.
+  Table-top game character creator that allows users to define character stats and details, save them to a roster, and view them in a dynamic character sheet.
 
-  Application can be found at http://murmuring-cove-64228.herokuapp.com/
+  URL: http://murmuring-cove-64228.herokuapp.com/
+  
+  ## Table of Contents
 
-  This project was co-created by:
+  <a href='#Installation'>Installation</a>
+
+  <a href='#How to use'>Usage</a>
+  
+  <a href='#Contribution'>Contribution</a>
+
+  <a href='#Credits'>Credits</a>
+
+  <a href='#Questions'>Questions</a>
+  
+  <a href='#License'>License</a>
+
+
+  ## <a id='Installation' style='color:white;'>Installation</a>
+  To set up a development environment, install the following tools: React, react-router-dom, react-scripts, babel, MongoDB with Robo3T
+
+  ## <a id='How to use' style='color:white;'>How to use</a>
+  Log in or create a user account. Click the Create Character button to start creation wizard. Use DnD5e API supplied details, and go through the selection and creation process. Click save when finished, your new character is now in your Hero Roster. You can select and view any one of these heros in a dynamic character sheet to view and edit during gameplay.
+
+  ## <a id='Contribution' style='color:white;'>Contribution</a>
+  Fork the repo and submit potential changes for future development.
+  
+  ## <a id='Credits' style='color:white;'>Credits</a>
+  Co-creators:
   <hr>
   GitHub Username: ezekieleverest <br>Github Profile: <a href='https://github.com/ezekieleverest'>https://github.com/ezekieleverest</a>
   <hr>
@@ -16,43 +41,23 @@
   GitHub Username: NathanSzu <br>Github Profile: <a href='https://github.com/NathanSzu'>https://github.com/NathanSzu</a>
   <hr>
   
-  ## Table of Contents
-
-  <a href='#Installation'>Installation</a>
-
-  <a href='#Usage'>Usage</a>
-
-  <a href='#License'>License</a>
-
-  <a href='#Contribution'>Contribution</a>
-
-  <a href='#Tests'>Tests</a>
-
-  <a href='#Questions'>Questions</a>
-
-  ## <a id='Installation' style='color:white;'>Installation</a>
-  Download and run npm install from node.
-
-  ## <a id='Usage' style='color:white;'>Usage</a>
-  Login or create a user account, then click the Create Character button to utilize the wizard. After that you can select and view characters from the roster screen.
-
-  ## <a id='License' style='color:white;'>License</a>
-  MIT License
-
-  ## <a id='Contribution' style='color:white;'>Contribution</a>
-  Fork the repo and submit potential changes/fixes to merge.
-
-  ## <a id='Tests' style='color:white;'>Tests</a>
-  
-
-  ## <a id='Questions' style='color:white;'>Questions - Contact Me</a>
-  <img style='width:150px' src='https://avatars1.githubusercontent.com/u/63675982?s=460&u=37fde4e20becebd01932553f70ef94c1ee587078&v=4'>
-  
-  
+  ## <a id='Questions' style='color:white;'>Questions</a>
+  Contact Andrew Smith with questions at andrewsmith593@gmail.com.
 
   GitHub Username: AndrewCodesDontYaKnow
 
   Github Profile: <a href='https://github.com/andrewcodesdontyaknow'>https://github.com/andrewcodesdontyaknow</a>
+  
+ 
+ ## <a id='License' style='color:white;'>License</a>
+Copyright 2020 Andrew Smith
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  
 
   <!-- Email: andrewsmith593@gmail.com -->
 
